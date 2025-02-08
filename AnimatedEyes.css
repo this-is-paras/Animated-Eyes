@@ -3,7 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+h1{
+    color: pink;
+    text-shadow: 2px 2px 4px red;
+}
 body{
     width: 100vw;
     height: 100vh;
